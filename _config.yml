@@ -1,0 +1,31 @@
+title: Blockchainappsdeveloper
+email: cashbackscript@gmail.com
+description: Blockchianappsdeveloper is the top-notch blockchain development company in India that provides custom blockchain solutions all over the world.also hire our blockchain developer/ team for your business growth.
+
+baseurl: "/"
+url: http://keralahost.in/hallechris
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: Blockchainappsdeveloper
+
+date: 2019-04-06 11:25:19 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/hallechris/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+
+author: hallechris
